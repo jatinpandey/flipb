@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "flipb"
+        }, 
+        "flipb": {
+            "applicationId": "2QXFFbSL3RJYk3Ns5mCHaceHOTSsPHzePRBffEiB", 
+            "masterKey": "wWZRf1rKk79WAyKmFKr7wOJvYXYH2AZcptK2KN1o"
+        }
+    }
+}
